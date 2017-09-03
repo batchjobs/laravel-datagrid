@@ -1,18 +1,18 @@
 {
-    "name": "aginev/datagrid",
+    "name": "batchjobs/laravel-datagrid",
     "description": "Datagrid package for Laravel v5",
 	"keywords": ["Datagrid", "Datagrid Package for Laravel v5"],
-    "homepage": "http://aginev.com",
+    "homepage": "http://fullstackzone.net",
     "license": "MIT",
     "authors": [
         {
-            "name": "Atanas Ginev",
-            "email": "naskospam@gmail.com"
+            "name": "Full Stack Zone",
+            "email": "batchjobs@gmail.com"
         }
     ],
     "autoload": {
         "psr-4": {
-            "Aginev\\Datagrid\\" : "src"
+            "batchjobs\\laravel-datagrid\\" : "src"
         }
     },
     "require": {
@@ -20,6 +20,6 @@
         "illuminate/support": "5.*",
         "illuminate/contracts": "5.*",
         "illuminate/view": "5.*",
-		"laravelcollective/html": "5.*"
+	"laravelcollective/html": "5.*"
     }
 }
